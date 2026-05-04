@@ -13,6 +13,7 @@ Repository ini dibagi berdasarkan pertemuan (P):
 - `P4_FirmanArdiyanNugraha/` : Latihan dan Tugas Pertemuan 4
 - `P7_FirmanArdiyanNugraha/` : Latihan dan Tugas Pertemuan 7
 - `P8_FirmanArdiyanNugraha/` : Latihan dan Tugas Pertemuan 8
+- `P10_FirmanArdiyanNugraha/` : Latihan dan Tugas Pertemuan 10
 
 ## 🛠️ Tech Stack
 - **Language:** Java
